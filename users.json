@@ -1,0 +1,23 @@
+{
+  "muhammadsaadpopat76@gmail.com": {
+    "salt": "c61a47791f5c41a5bf56b7ccedca8859",
+    "password": "98669b20ff25c9b9c3e5d3a7a05012159ed053c24f54bf37f5089ccfd3ea2a92",
+    "display_name": "muhammadsaadpopat76",
+    "created": "01 May 2026 04:32 PM",
+    "memory_file": "memory_muhammadsaadpopat76_at_gmail_com.json",
+    "shopify_store": "",
+    "shopify_client_id": "",
+    "shopify_client_secret": "",
+    "subscription": {
+      "plan": "ultra_promax",
+      "billing": "admin",
+      "status": "active",
+      "started_at": "2026-05-01T17:03:20.683937",
+      "expires_at": null,
+      "payment_ref": "ADMIN",
+      "usage_date": "",
+      "usage_generate": 0,
+      "usage_shopify": 0
+    }
+  }
+}

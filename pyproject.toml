@@ -1,0 +1,20 @@
+[project]
+name = "listing-ai"
+version = "0.1.0"
+description = "AI-powered e-commerce copy & Shopify listing tool"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "groq",
+    "python-dotenv",
+    "streamlit",
+    "requests",
+    "Pillow",
+    "reportlab",
+    "filelock",
+]
+
+[tool.uv.workspace]
+members = [
+    "filelock",
+]
